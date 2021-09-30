@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "534128897525",
+    "firebase_url": "https://pleasurepicture-76daa-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "pleasurepicture-76daa",
+    "storage_bucket": "pleasurepicture-76daa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534128897525:android:819c1a5eeb2d46f35f04bc",
+        "android_client_info": {
+          "package_name": "com.shamray.pleasurepicture"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "534128897525-grralgvtahj7bsg548s0uc2ip23511pf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shamray.pleasurepicture",
+            "certificate_hash": "f2377fd98bb6922b77bfbc3a156e7e022ea0ea36"
+          }
+        },
+        {
+          "client_id": "534128897525-ldf04tii135rvad53vea9agaojl45112.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7YnQvY29bc6n5XNSB9NIMIimEUm3WDwU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "534128897525-ldf04tii135rvad53vea9agaojl45112.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "534128897525-14hi32qiup24kj7sanssu5cqs8b11nev.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.shamray.pleasurepicture"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

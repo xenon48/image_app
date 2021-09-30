@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>534128897525-14hi32qiup24kj7sanssu5cqs8b11nev.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.534128897525-14hi32qiup24kj7sanssu5cqs8b11nev</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>534128897525-grralgvtahj7bsg548s0uc2ip23511pf.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDvpE_A29NIwnqLGZAhHAACSZxihB-ALf4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>534128897525</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.shamray.pleasurepicture</string>
+	<key>PROJECT_ID</key>
+	<string>pleasurepicture-76daa</string>
+	<key>STORAGE_BUCKET</key>
+	<string>pleasurepicture-76daa.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:534128897525:ios:235349b6b3694be65f04bc</string>
+	<key>DATABASE_URL</key>
+	<string>https://pleasurepicture-76daa-default-rtdb.europe-west1.firebasedatabase.app</string>
+</dict>
+</plist>
